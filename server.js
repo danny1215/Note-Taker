@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3000;
 // middleware
 app.use(express.urlencoded({extended: true}));
 app.use(express.json());
-app.use(express.static("public"));
+
 
 // routes
 
@@ -52,6 +52,7 @@ app.post("/api/notes", (req, res) => {
 
 
 // deleting the note using delete method
+
 app.delete("/api/notes/:id", (req, res) =>{
     // console.log(req.params.id);
     var id =req.params.id;
