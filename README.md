@@ -20,14 +20,15 @@ This Application can be used by clonning it, open in command prompt or bash. It 
 - shortid
 - path module
 - express
+- heroku
 
 ## LINK TO THE REPOSITORY
 
-- The link is [Danny-team-profile-generator](https://github.com/danny1215/Note-Taker)
+- The link is [note-Taker](https://github.com/danny1215/Note-Taker)
 
 ## LINK TO THE Deployed link
 
-
+- Link to the url [Heroku-url]()
 
 ## SCREENSHOTS
 
