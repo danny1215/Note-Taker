@@ -33,8 +33,4 @@ This Application can be used by clonning it, open in command prompt or bash. It 
 
 ![localhost_3000_](https://user-images.githubusercontent.com/59859358/106792034-aac72b00-6623-11eb-86e6-b0a808d96175.png)
 
-![Screenshot (144)](https://user-images.githubusercontent.com/59859358/106793121-11007d80-6625-11eb-9643-5215d7e9562b.png)
-
-![Screenshot (145)](https://user-images.githubusercontent.com/59859358/106793132-12ca4100-6625-11eb-9dcd-581d47385f93.png)
-
-![Screenshot (146)](https://user-images.githubusercontent.com/59859358/106793140-14940480-6625-11eb-86d3-be9211ad95f7.png)
+![Screenshot (147)](https://user-images.githubusercontent.com/59859358/106793969-21fdbe80-6626-11eb-8ebb-ec2dc0741ca8.png)
