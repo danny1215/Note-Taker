@@ -26,9 +26,9 @@ This Application can be used by clonning it, open in command prompt or bash. It 
 
 - The link is [note-Taker](https://github.com/danny1215/Note-Taker)
 
-## LINK TO THE Deployed link
+## LINK TO THE Deployed application
 
-- Link to the url [Heroku-url]()
+- Link to the url [Heroku-url](https://cryptic-retreat-22640.herokuapp.com/)
 
 ## SCREENSHOTS
 
