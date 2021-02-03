@@ -34,7 +34,7 @@ app.get("/api/notes",  (req, res) => res.json(db));
 
 // saving the notes the user has typed to db using post method
 
-app.post("/api/notes", function(req, res){
+app.post("/api/notes", (req, res) => {
     console.log(req.body);
     const newNote = {
         id: shortId.generate(),
@@ -52,7 +52,7 @@ app.post("/api/notes", function(req, res){
 
 
 // deleting the note using delete method
-app.delete("/api/notes/:id", function (req, res){
+app.delete("/api/notes/:id", (req, res) =>{
     // console.log(req.params.id);
     var id =req.params.id;
     db.splice(id -1, 1);
