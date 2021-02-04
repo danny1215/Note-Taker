@@ -2,12 +2,12 @@
 
 ### by Daniel Mestawat
 ### Description
-This Application can be used by clonning it, open in command prompt or bash. It also can be utilized using a url link that is mentioned below.The purpose of this application is to make notes of a daily plan or activities and store it for view later.After you have done the activity on notes you have made it has a delete button that you can delete.
+This Application can be used by clonning it, open in command prompt or bash. It also can be utilized using a url link that is mentioned below.The purpose of this application is to make notes of a daily plan or activities and store it for view later.After you have done the activity (to do lists) it has a delete button that you can delete.
 
 
 ### HOW TO USE THE APPLICATION
 
-- Clone this repository, or use the url
+- Clone this repository provided below or use the url link provided below
 - if you have cloned it then Open in command prompt(cmd) or bash.
 - Initialize by typing npm i.
 - the first step is to type "node server.js" with out the (") and then press the key enter.
@@ -15,18 +15,19 @@ This Application can be used by clonning it, open in command prompt or bash. It 
 
 ### Technologies Used
 
+- express
+- heroku
 - Node.js
 - fs module
 - shortid
 - path module
-- express
-- heroku
+
 
 ## LINK TO THE REPOSITORY
 
 - The link is [note-Taker](https://github.com/danny1215/Note-Taker)
 
-## LINK TO THE Deployed application
+## LINK TO THE Deployed application on Heroku
 
 - Link to the url [Heroku-url](https://cryptic-retreat-22640.herokuapp.com/)
 
